@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main(){
+int n,i;
+int fact=1;
+printf("enter an  integer:");
+scanf("%d",&n);
+if(n<0)
+printf("error
